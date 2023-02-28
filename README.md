@@ -8,25 +8,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 ### Capturas de pantalla:
 
-Primera parte de la página web:
-
 ![Primera parte de la página web](webpage.jpeg)
-
-Experiencia:
-
-![Experiencia](imagenes/readme/screenshot2.png)
-
-Proyectos:
-
-![Proyectos](imagenes/readme/screenshot3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/readme/screenshot4.png)
-
-Contacto:
-
-![Contacto](imagenes/readme/screenshot5.png)
 
 ## Tecnologías
 
